@@ -1,0 +1,13 @@
+body{
+  background-color: var(--black-color);
+  text-align: center;
+  color: var(--white-color);
+  text-align: center;
+  align-items: center;
+  height: 100vh;
+}
+
+ .contenedor a{
+   color: var(--green-color);
+   text-decoration: none;
+ }
